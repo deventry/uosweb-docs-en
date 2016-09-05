@@ -35,9 +35,6 @@
 			"title": "All in one page",
 			"name": "technical-design-one-page"
 		}, {
-			"title": "Micro UX",
-			"name": "technical-design-micro-ux"
-		}, {
 			"title": "Monochromatic",
 			"name": "technical-design-monochromatic"
 		}, {
@@ -52,8 +49,10 @@
 		}, {
 			"title": "User eXperience",
 			"name": "technical-design-ux",
-			"items": [
-			]
+			"items": [{
+				"title": "Micro UX",
+				"name": "technical-design-micro-ux"
+			}]
 		}]
 	}, {
 		"title": "Development",
