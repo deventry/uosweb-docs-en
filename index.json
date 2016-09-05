@@ -1,8 +1,8 @@
 [{
-    "title": "<h1>Technical</h1>",
+    "title": "Technical",
     "name": "technical",
     "items": [{
-		"title": "<h2>Design</h2>",
+		"title": "Design",
 		"name": "technical-design",
 		"items": [{
 			"title": "Responsive Design",
