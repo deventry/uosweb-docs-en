@@ -49,6 +49,11 @@
 		}, {
 			"title": "Fixed position content - navigation",
 			"name": "technical-design-navigation"
+		}, {
+			"title": "User eXperience",
+			"name": "technical-design-ux",
+			"items": [
+			]
 		}]
 	}, {
 		"title": "Development",
@@ -242,48 +247,6 @@
 			"items": [
 			]
 		}]
-	}, {
-		"title": "App Anathomy",
-		"name": "technical-app",
-		"items": [{
-			"title": "Account",
-			"name": "technical-app-account",
-			"items": [{
-				"title": "Intro",
-				"name": "technical-app-intro",
-				"items": [
-				]
-			}, {
-				"title": "Main",
-				"name": "technical-app-main",
-				"items": [{
-					"title": "Home",
-					"name": "technical-app-home",
-					"items": [
-					]
-				}, {
-					"title": "Social Inbox",
-					"name": "technical-app-social-inbox",
-					"items": [
-					]
-				}, {
-					"title": "Content Center",
-					"name": "technical-app-content-center",
-					"items": [
-					]
-				}, {
-					"title": "Publishing",
-					"name": "technical-app-publishing",
-					"items": [
-					]
-				}]
-			}]
-		}]
-	}, {
-		"title": "User eXperience",
-		"name": "technical-ux",
-		"items": [
-		]
 	}, {
 		"title": "Security",
 		"name": "technical-security",
