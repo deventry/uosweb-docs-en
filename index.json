@@ -254,4 +254,203 @@
 			"id": "technical-security-sso"
 		}]
 	}]
+}, {
+	"label": "Notes",
+	"id": "notes",
+	"items": [{
+		"label": "Accessibility",
+		"id": "notes-accessibility"
+	}, {
+		"label": "Analytics",
+		"id": "notes-analytics"
+	}, {
+		"label": "Architecture",
+		"id": "notes-architecture"
+	}, {
+		"label": "Asp.Net Core",
+		"id": "notes-aspnet-core"
+	}, {
+		"label": "Async",
+		"id": "notes-async"
+	}, {
+		"label": "Azure",
+		"id": "notes-azure"
+	}, {
+		"label": "Bootstrap",
+		"id": "notes-bootstrap"
+	}, {
+		"label": "Bots",
+		"id": "notes-bots"
+	}, {
+		"label": "Caching",
+		"id": "notes-caching"
+	}, {
+		"label": "Captcha",
+		"id": "notes-captcha"
+	}, {
+		"label": "CMS Ideas",
+		"id": "notes-cms-ideas"
+	}, {
+		"label": "Code Generation",
+		"id": "notes-code-generation"
+	}, {
+		"label": "CSS Frameworks",
+		"id": "notes-css-frameworks"
+	}, {
+		"label": "Data Annotations",
+		"id": "notes-data-annotations"
+	}, {
+		"label": "Date Time",
+		"id": "notes-date-time"
+	}, {
+		"label": "Dependency Injection",
+		"id": "notes-dependency-injection"
+	}, {
+		"label": "Device Detection",
+		"id": "notes-device-detection"
+	}, {
+		"label": "DevOps",
+		"id": "notes-devops"
+	}, {
+		"label": "Documentation Frameworks",
+		"id": "notes-documentation-frameworks"
+	}, {
+		"label": "EF Core",
+		"id": "notes-ef-core"
+	}, {
+		"label": "Electron",
+		"id": "notes-electron"
+	}, {
+		"label": "Email",
+		"id": "notes-email"
+	}, {
+		"label": "Exception Authentication",
+		"id": "notes-exception-authentication"
+	}, {
+		"label": "F Sharp",
+		"id": "notes-f-sharp"
+	}, {
+		"label": "HTML",
+		"id": "notes-html"
+	}, {
+		"label": "Icon Frameworks",
+		"id": "notes-icon-frameworks"
+	}, {
+		"label": "Identity",
+		"id": "notes-identity"
+	}, {
+		"label": "Installing from NuGet",
+		"id": "notes-installing-from-nuget"
+	}, {
+		"label": "JavaScript",
+		"id": "notes-javascript"
+	}, {
+		"label": "JSON Serialization",
+		"id": "notes-json-serialization"
+	}, {
+		"label": "Linux Mac Docker",
+		"id": "notes-linux-mac-docker"
+	}, {
+		"label": "Localization",
+		"id": "notes-localization"
+	}, {
+		"label": "Long Running Tasks",
+		"id": "notes-long-running-tasks"
+	}, {
+		"label": "Mapping",
+		"id": "notes-mapping"
+	}, {
+		"label": "Markdown",
+		"id": "notes-markdown"
+	}, {
+		"label": "Metadata",
+		"id": "notes-metadata"
+	}, {
+		"label": "Middleware",
+		"id": "notes-middleware"
+	}, {
+		"label": "Modal Dialogs",
+		"id": "notes-modal-dialogs"
+	}, {
+		"label": "MojoPortal Migration",
+		"id": "notes-mojoportal-migration"
+	}, {
+		"label": "MP Sites Change Plan",
+		"id": "notes-mp-sites-change-plan"
+	}, {
+		"label": "Multi Tenancy",
+		"id": "notes-multi-tenancy"
+	}, {
+		"label": "MVC",
+		"id": "notes-mvc"
+	}, {
+		"label": "NetOps",
+		"id": "notes-netops"
+	}, {
+		"label": "NgInx",
+		"id": "notes-nginx"
+	}, {
+		"label": "NoDB Strategy Core Simplecontent",
+		"id": "notes-nodb-strategy-core-simplecontent"
+	}, {
+		"label": "NodeJS",
+		"id": "notes-nodejs"
+	}, {
+		"label": "NuGet",
+		"id": "notes-nuget"
+	}, {
+		"label": "Photo Galleries",
+		"id": "notes-photo-galleries"
+	}, {
+		"label": "Project Goals",
+		"id": "notes-project-goals"
+	}, {
+		"label": "Razor View Engine",
+		"id": "notes-razor-view-engine"
+	}, {
+		"label": "Routing",
+		"id": "notes-routing"
+	}, {
+		"label": "Security",
+		"id": "notes-security"
+	}, {
+		"label": "SEO",
+		"id": "notes-seo"
+	}, {
+		"label": "Site Maps",
+		"id": "notes-site-maps"
+	}, {
+		"label": "notes SQL Syntax",
+		"id": "notes-sql-syntax"
+	}, {
+		"label": "SSL TLS",
+		"id": "notes-ssl-tls"
+	}, {
+		"label": "Telemtry",
+		"id": "notes-telemtry"
+	}, {
+		"label": "Testing",
+		"id": "notes-testing"
+	}, {
+		"label": "Todo",
+		"id": "notes-todo"
+	}, {
+		"label": "Todo Completed",
+		"id": "notes-todo-completed"
+	}, {
+		"label": "Tools",
+		"id": "notes-tools"
+	}, {
+		"label": "UI UX",
+		"id": "notes-ui-ux"
+	}, {
+		"label": "Views and ViewModels",
+		"id": "notes-views-and-viewmodels"
+	}, {
+		"label": "Web API",
+		"id": "notes-web-api"
+	}, {
+		"label": "XSS Prevention",
+		"id": "notes-xss-prevention"
+	}]
 }]
