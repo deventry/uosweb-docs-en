@@ -133,7 +133,14 @@
 						}]
 					}]
 				}]
-			}]
+			}, {
+				"label": "Support",
+				"id": "technical-development-client-support",
+				"items": [{
+					"label": "Why we don't support IE 8",
+					"id": "technical-development-client-support-ie8"
+				}]
+			}
 		}, {
 			"label": "Markdown",
 			"id": "technical-development-markdown",
